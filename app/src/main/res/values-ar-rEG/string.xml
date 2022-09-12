@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoC36</string>
+    <string name="please_enter_title">العنوان</string>
+    <string name="please_enter_desc">الوصف</string>
+    <string name="please_select_date">اختر التاريخ</string>
+    <string name="add">أضف نوتة</string>
+    <string name="languages">اللغات</string>
+    <string-array name="Languages">
+        <item>العربية</item>
+        <item>الانجليزية</item>
+
+    </string-array>
+
+</resources>

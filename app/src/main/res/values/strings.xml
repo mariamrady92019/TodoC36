@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TodoC36</string>
+    <string name="please_enter_title">Please Enter title</string>
+    <string name="please_enter_desc">please enter description</string>
+    <string name="please_select_date">please select date</string>
+    <string name="add">add task</string>
+    <string name="languages">languages</string>
+    <string-array name="Languages">
+        <item>english</item>
+        <item>arabic</item>
+
+    </string-array>
+</resources>
